@@ -1,0 +1,3 @@
+Developed a foundational Electronic Transport System project during my internship at Devoyard. The project is fully built with C#, leveraging core programming fundamentals and the four main Object-Oriented Programming (OOP) pillars: Encapsulation, Abstraction, Inheritance, and Polymorphism (along with Interfaces).
+
+Throughout the process, I utilized AI tools as a thought partner to better analyze system requirements and ensure optimal implementation. I am currently working on expanding the project into a full-fledged application by building a robust backend, interactive frontend, and integrating a database.
